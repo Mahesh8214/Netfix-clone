@@ -1,5 +1,4 @@
 
----
 
 ```markdown
 # 📺 Netflix Clone
@@ -40,7 +39,7 @@ A fully responsive and functional Netflix UI clone built using React, Firebase, 
 
 ## 🗂️ Project Structure
 
-```
+```plaintext
 
 netflix-clone/
 ├── public/
